@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BuyNSello</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="admin_username">Saurav Prasai Admin</string>
+    <string name="admin_url">carnsello.com</string>
+
+</resources>
