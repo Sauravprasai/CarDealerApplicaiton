@@ -52,4 +52,4 @@ We would like to express our heartfelt gratitude to the instructors and mentors 
 
 ## Contact
 
-If you have any questions, suggestions, or simply wish to shower us with praise, please don't hesitate to reach out to the project maintainer at [your-email@example.com](mailto:your-email@example.com). We can't wait to hear from you and make this application even more exceptional!
+If you have any questions, suggestions, or simply wish to shower us with praise, please don't hesitate to reach out to the project maintainer at [sauravprasai2016@gmail.com](mailto:sauravprasai2016@gmail.com). We can't wait to hear from you and make this application even more exceptional!
