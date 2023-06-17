@@ -1,4 +1,4 @@
-# Car Dealership Management Application
+# Car Dealership Application
 
 Welcome to the Car Dealership Management Application repository! This Android application, developed using the powerful Android Studio, empowers car dealerships with a comprehensive management system. As an administrator, you'll be able to effortlessly perform CRUD operations (Create, Read, Update, Delete) on car inventory, all within a visually stunning and user-friendly interface.
 
